@@ -1,0 +1,33 @@
+---------------------------------------------
+                 WARNING
+---------------------------------------------
+If you use this Windows Crack, the effects are unknown and may be hazardous.
+If you wish to continue follow the steps listed below. Report any symptoms you have
+---------------------------------------------
+               THEORIZED SYMPTOMS
+---------------------------------------------
+Changing your chromebook's OS(Operating System) will most likely unenroll you from the school.
+This isnt confirmed but theorized with evidence to back it up.(Not enough evidence and with chromebooks litteraly anything is possible.)
+USE AT YOUR OWN RISK. I AM NOT RESPONISBLE FOR ANY DAMAGE CAUSED TO YOUR CHROMEBOOK.
+UNENROLLING CAN CAUSE A CHROMEBOOK INFRACTION(REFERAL)
+---------------------------------------------
+                 STEPS
+---------------------------------------------
+1) Flip your device over onto its back and check if it says "Chromebook 3100" on the back.
+ If it doesnt your chromebook is not compatible for windows, try linux.
+1b) Then turn off your device, open the back and disconnect the battery.
+2)Go to coolstar.org/chromebook/
+3)Scroll down until you find where it says Windows10/11
+4) Click install then put in what company made your chromebook. (ex. Dell,Asus,Acer,HP)
+5)Select which CPU your chromebook is currently running. ( For this one you will have to do a little research on your chromebook, usually it is an Intel Celron N4000.)
+6)Select your chromebook model. (You can find this on the back of your chromebook)
+7) Depending on which chromebook you use, there will be different problems or warnings stating what is not in the repack.
+8) This part is a little tricky because we are going into BIOS. 
+8b) Press Esc + Refresh + Power
+8c) Then click Ctrl + D + Enter
+8d) Then click Ctrl + D
+8e) Then open a tab and press Ctrl + Alt + t
+8f) Then type in "shell" and press enter
+9) Go into "STEP-9.txt" copy everything in there and paste it into the console
+10) Select "Full UEFI Firmware" from the options
+11) After successful flashing, turn off your device, open the back and connect the battery.

@@ -1,0 +1,3 @@
+Go to chrome://network and import the VPN.onc file then click the clock in the bottom right corner and boom there is now a VPN section
+
+If this doesnt work go into the other methods folder

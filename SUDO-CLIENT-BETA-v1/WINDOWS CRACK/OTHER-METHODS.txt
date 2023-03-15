@@ -1,0 +1,8 @@
+----------------------------------
+             USB
+----------------------------------
+On another computer, create a Windows 10 or 11 installer with Rufus as "GPT for UEFI"
+Plug the USB Drive into the chromebook
+Plug a USB keyboard or mouse in for installation
+Turn on the chromebook, and let it boot the USB drive
+Note: If you need to select a different boot device, press any key in "Select Boot Option". Then select "Boot Manager" to select your boot drive.

@@ -1,0 +1,3 @@
+Go to chrome://network and upload the ONC file. It should say "Networks imported: 1"
+
+If it doesnt use another method.

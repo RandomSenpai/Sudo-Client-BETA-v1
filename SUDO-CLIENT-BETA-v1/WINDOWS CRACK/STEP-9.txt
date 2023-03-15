@@ -1,0 +1,1 @@
+cd; curl -LO mrchromebox.tech/firmware-util.sh && sudo bash firmware-util.sh
