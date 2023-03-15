@@ -8,3 +8,9 @@ I added alot of mods into this but I havent tested all of them. Most of them are
 This is a free project and will stay free until i become poor. You can distribute as you like but please do not use my project for any bad stuff e.i hacking, ddosing,porn, etc.
 You are allowed to make any modifications you please but do not change the Lisense file. If you upload a repack of my project please credit me in it.
 Otherwise use as you please. I AM NOT RESPONISBLE FOR ANYTHING YOU CHOSE TO DO! 
+
+
+------------------------------------------------------CONTACT AND COLLABORATION-------------------------------------------------------------------------
+
+You can contact me on discord by ユアボイセンパイ®#0018 
+If you wish to pick up my project, tell me suggestions, or would like to collab, my dms are open. 
